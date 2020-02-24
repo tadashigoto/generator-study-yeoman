@@ -1,0 +1,12 @@
+{
+    "name": "予約マスタ",
+    "tableName": "reserve",
+    "tableTapple": [
+        { "exName" : "氏名",
+         "inName" : "name"
+        },
+        { "exName" : "氏名2",
+         "inName" : "name2"
+        }
+    ]
+}

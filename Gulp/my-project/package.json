@@ -1,0 +1,18 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "t.goto",
+  "license": "MIT",
+  "description": "パッケージテスト",
+  "keywords": [
+    "aaaa",
+    "bbbbb"
+  ],
+  "devDependencies": {
+    "gulp-ejs": "^5.0.0"
+  }
+}
